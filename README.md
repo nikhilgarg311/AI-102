@@ -23,3 +23,10 @@
 ## Choose between large and small language models
 <img width="898" height="262" alt="image" src="https://github.com/user-attachments/assets/f1da1956-c918-4300-9cc2-0e28f500fd68" />
 
+## Balance flexibility and performance with open versus proprietary models
+<img width="926" height="595" alt="image" src="https://github.com/user-attachments/assets/645c74b7-2e78-44a5-9700-1875077c9889" />
+
+## Filter models for performance
+<img width="928" height="805" alt="image" src="https://github.com/user-attachments/assets/c65e064d-27fb-4ef2-9126-edcab066dd4e" />
+
+## 
