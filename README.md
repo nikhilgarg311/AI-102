@@ -19,3 +19,7 @@
 
 ## Programming languages, APIs, and SDKs
 <img width="968" height="478" alt="image" src="https://github.com/user-attachments/assets/6625570a-ec22-40e6-9d26-4936ae1f2e69" />
+
+## Choose between large and small language models
+<img width="898" height="262" alt="image" src="https://github.com/user-attachments/assets/f1da1956-c918-4300-9cc2-0e28f500fd68" />
+
