@@ -29,4 +29,5 @@
 ## Filter models for performance
 <img width="928" height="805" alt="image" src="https://github.com/user-attachments/assets/c65e064d-27fb-4ef2-9126-edcab066dd4e" />
 
-## 
+## Deploy a language model with Microsoft Foundry
+<img width="936" height="773" alt="image" src="https://github.com/user-attachments/assets/ce2a0f91-80f6-4ecb-a6c7-c309d3f09f24" />
